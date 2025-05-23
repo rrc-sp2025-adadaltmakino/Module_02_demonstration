@@ -10,7 +10,7 @@ Usage: To demonstrate content from Module 02.
 name = "john"
 age = "25"
 value = 3.14159
-print(f"The value is {value:2f}.")
+print(f"The value is {value:.2f}.")
 print(f"My name is {name} and I am {age} years old.")
 
 absolute_value = abs (-12)
